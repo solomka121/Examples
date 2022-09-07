@@ -20,7 +20,7 @@ Material:
     serializedVersion: 3
     m_TexEnvs: []
     m_Floats:
-    - _Restore: 0.004
+    - _Restore: 0
     - _Revert: 0
     - _RevertPosition: 1
     m_Colors:

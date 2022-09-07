@@ -30,7 +30,7 @@ namespace PathCreation {
  [SerializeField, HideInInspector]
  ControlMode controlMode;
  [SerializeField, HideInInspector]
- float autoControlLength = .3f;
+ float autoControlLength = .38f;
  [SerializeField, HideInInspector]
  bool boundsUpToDate;
  [SerializeField, HideInInspector]
@@ -40,7 +40,7 @@ namespace PathCreation {
  [SerializeField, HideInInspector]
  List<float> perAnchorNormalsAngle;
  [SerializeField, HideInInspector]
- float globalNormalsAngle;
+ float globalNormalsAngle = 90;
  [SerializeField, HideInInspector]
  bool flipNormals;
 

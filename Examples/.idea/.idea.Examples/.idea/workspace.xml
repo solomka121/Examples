@@ -2,9 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7ff4f15d-c85c-4ba0-9c72-d057a8bbf737" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/Assets/Scenes.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scenes/SampleScene.unity" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scenes/SampleScene.unity.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.Examples/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Examples/.idea/contentModel.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.Examples/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Examples/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Splines/PathCreator/Core/Runtime/Objects/BezierPath.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Splines/PathCreator/Core/Runtime/Objects/BezierPath.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Splines/PathCreator/Core/Runtime/Objects/PathCreatorData.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Splines/PathCreator/Core/Runtime/Objects/PathCreatorData.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Splines/PathCreator/Examples/Scenes/Object Placement.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Splines/PathCreator/Examples/Scenes/Object Placement.unity" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/UserSettings/EditorUserSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/UserSettings/EditorUserSettings.asset" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -16,14 +18,21 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/../../AssetsDump/Assets/Addons/PathCreator/Examples/Scripts/PathFollower.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Splines/PathCreator/Examples/Scripts/GeneratePathExample.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="mock://D:/Unity/Projects/Examples/Examples/UserSettings/EditorUserSettings.asset" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Splines/Ship.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Assets/Painting/Materials/Snow Plane.shader" />
         <option value="$PROJECT_DIR$/Assets/Painting/Materials/Snow Height/Snow Height Map Update.shader" />
         <option value="$PROJECT_DIR$/Assets/Painting/SnowBrush.cs" />
+        <option value="$PROJECT_DIR$/Assets/Splines/PathCreator/Examples/Scripts/GeneratePathExample.cs" />
+        <option value="$PROJECT_DIR$/Assets/Painting/Materials/Snow Plane.shader" />
+        <option value="$PROJECT_DIR$/Assets/Splines/Ship.cs" />
+        <option value="$PROJECT_DIR$/Assets/Splines/PathCreator/Core/Runtime/Objects/PathCreatorData.cs" />
+        <option value="$PROJECT_DIR$/Assets/Splines/PathCreator/Core/Runtime/Objects/BezierPath.cs" />
       </list>
     </option>
   </component>
@@ -67,7 +76,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1662543940817</updated>
-      <workItem from="1662543945024" duration="10956000" />
+      <workItem from="1662543945024" duration="16463000" />
     </task>
     <servers />
   </component>

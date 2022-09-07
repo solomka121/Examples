@@ -72,7 +72,7 @@ Material:
     - _Glossiness: 0
     - _GlossyReflections: 1
     - _HeightAmoung: 1
-    - _HeightAmount: 0.6
+    - _HeightAmount: 0.5
     - _Metallic: 0
     - _Mode: 0
     - _OcclusionStrength: 1
@@ -81,7 +81,7 @@ Material:
     - _SpecularHighlights: 1
     - _SrcBlend: 1
     - _Tessellation: 1
-    - _TessellationAmount: 12
+    - _TessellationAmount: 1
     - _UVSec: 0
     - _ZWrite: 1
     m_Colors:
