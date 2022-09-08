@@ -1,13 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7ff4f15d-c85c-4ba0-9c72-d057a8bbf737" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.Examples/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Examples/.idea/contentModel.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.Examples/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Examples/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Painting/Materials/Snow Height/Snow Height Map Update.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Painting/Materials/Snow Height/Snow Height Map Update.mat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Painting/Materials/Snow Plane.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Painting/Materials/Snow Plane.mat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/UserSettings/EditorUserSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/UserSettings/EditorUserSettings.asset" afterDir="false" />
-    </list>
+    <list default="true" id="7ff4f15d-c85c-4ba0-9c72-d057a8bbf737" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -77,8 +71,16 @@
       <option name="presentableId" value="Default" />
       <updated>1662543940817</updated>
       <workItem from="1662543945024" duration="16464000" />
-      <workItem from="1662620883926" duration="5604000" />
+      <workItem from="1662620883926" duration="5662000" />
     </task>
+    <task id="LOCAL-00001" summary="Water Vertex Shader">
+      <created>1662657386784</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1662657386784</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -88,11 +90,17 @@
   <component name="UnityUnitTestConfiguration" currentTestLauncher="EditMode" />
   <component name="VcsManagerConfiguration">
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+    <MESSAGE value="Water Vertex Shader" />
+    <option name="LAST_COMMIT_MESSAGE" value="Water Vertex Shader" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="585" y="114" key="CommitChangelistDialog2" timestamp="1662544135140">
+    <state x="585" y="114" key="CommitChangelistDialog2" timestamp="1662657386121">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="585" y="114" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1662544135140" />
+    <state x="585" y="114" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1662657386121" />
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1662657423067">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1662657423067" />
   </component>
 </project>
