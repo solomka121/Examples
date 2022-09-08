@@ -63,6 +63,9 @@
           </e>
           <e p="Ship.cs" t="Include" />
         </e>
+        <e p="Water" t="Include">
+          <e p="Water.shader" t="Include" />
+        </e>
       </e>
       <e p="Examples.sln" t="IncludeFlat" />
       <e p="obj" t="ExcludeRecursive" />
