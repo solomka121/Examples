@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7ff4f15d-c85c-4ba0-9c72-d057a8bbf737" name="Default Changelist" comment="" />
+    <list default="true" id="7ff4f15d-c85c-4ba0-9c72-d057a8bbf737" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.Examples/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Examples/.idea/contentModel.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.Examples/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Examples/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UserSettings/EditorUserSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/UserSettings/EditorUserSettings.asset" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -13,6 +17,7 @@
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/../../AssetsDump/Assets/Addons/PathCreator/Examples/Scripts/PathFollower.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Splines/PathCreator/Examples/Scripts/GeneratePathExample.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Mesh Genaeration/CubeMeshGenerator.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Splines/Ship.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
@@ -27,6 +32,9 @@
         <option value="$PROJECT_DIR$/Assets/Splines/PathCreator/Core/Runtime/Objects/BezierPath.cs" />
         <option value="$PROJECT_DIR$/Assets/Water/NewSurfaceShader.shader" />
         <option value="$PROJECT_DIR$/Assets/Water/Water.shader" />
+        <option value="$PROJECT_DIR$/Assets/Mesh Genaeration/MeshGenerator.cs" />
+        <option value="$PROJECT_DIR$/Assets/Mesh Genaeration/CubeMeshGenerator.cs" />
+        <option value="$PROJECT_DIR$/Assets/Mesh Genaeration/PlaneMeshGenerator.cs" />
       </list>
     </option>
   </component>
@@ -40,6 +48,7 @@
     <property name="Discover.Launch.Via.Unity" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.completion" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RunManager" selected="Attach to Unity Editor.Attach to Unity Editor">
@@ -72,6 +81,7 @@
       <updated>1662543940817</updated>
       <workItem from="1662543945024" duration="16464000" />
       <workItem from="1662620883926" duration="5662000" />
+      <workItem from="1662713222348" duration="7974000" />
     </task>
     <task id="LOCAL-00001" summary="Water Vertex Shader">
       <created>1662657386784</created>
@@ -94,13 +104,21 @@
     <option name="LAST_COMMIT_MESSAGE" value="Water Vertex Shader" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="585" y="114" key="CommitChangelistDialog2" timestamp="1662657386121">
+    <state x="585" y="114" key="CommitChangelistDialog2" timestamp="1662725977496">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="585" y="114" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1662657386121" />
-    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1662657423067">
+    <state x="585" y="114" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1662725977496" />
+    <state x="781" y="241" key="RollbackChangesDialog" timestamp="1662718344805">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1662657423067" />
+    <state x="781" y="241" key="RollbackChangesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1662718344805" />
+    <state x="922" y="231" key="SettingsEditor" timestamp="1662718591498">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="922" y="231" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1662718591498" />
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1662718504546">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1662718504546" />
   </component>
 </project>

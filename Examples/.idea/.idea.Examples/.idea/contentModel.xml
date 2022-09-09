@@ -7,6 +7,10 @@
       <e p="Assembly-CSharp-Editor.csproj" t="IncludeRecursive" />
       <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
       <e p="Assets" t="Include">
+        <e p="Mesh Genaeration" t="Include">
+          <e p="CubeMeshGenerator.cs" t="Include" />
+          <e p="PlaneMeshGenerator.cs" t="Include" />
+        </e>
         <e p="Painting" t="Include">
           <e p="Materials" t="Include">
             <e p="Snow Height" t="Include">
