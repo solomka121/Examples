@@ -21,6 +21,23 @@
             <e p="SphereMeshGenerator.cs" t="Include" />
           </e>
         </e>
+        <e p="MeshTest" t="Include">
+          <e p="Scripts" t="Include">
+            <e p="Human" t="Include">
+              <e p="IKControl.cs" t="Include" />
+              <e p="MeshReplacer.cs" t="Include" />
+            </e>
+            <e p="MeshGenerator" t="Include">
+              <e p="MeshContainer.cs" t="Include" />
+              <e p="MeshGenerator.cs" t="Include" />
+            </e>
+            <e p="Painting" t="Include">
+              <e p="DrawField.cs" t="Include" />
+              <e p="DrawPanelInput.cs" t="Include" />
+              <e p="Painting.cs" t="Include" />
+            </e>
+          </e>
+        </e>
         <e p="Painting" t="Include">
           <e p="Materials" t="Include">
             <e p="Snow Height" t="Include">

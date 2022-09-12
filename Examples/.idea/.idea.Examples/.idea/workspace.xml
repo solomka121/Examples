@@ -4,13 +4,6 @@
     <list default="true" id="7ff4f15d-c85c-4ba0-9c72-d057a8bbf737" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/.idea.Examples/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Examples/.idea/contentModel.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.Examples/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Examples/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Mesh Genaeration/CubeMeshGenerator.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Mesh Genaeration/CubeMeshGenerator.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Mesh Genaeration/CustomMesh.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Mesh Genaeration/CustomMesh.unity" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Mesh Genaeration/PlaneMeshGenerator.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Mesh Genaeration/PlaneMeshGenerator.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Splines/PathCreator/Examples/Materials/Red.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Splines/PathCreator/Examples/Materials/Red.mat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Splines/PathCreator/Examples/Materials/Road.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Splines/PathCreator/Examples/Materials/Road.mat" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/UserSettings/EditorUserSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/UserSettings/EditorUserSettings.asset" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -99,7 +92,7 @@
       <workItem from="1662543945024" duration="16464000" />
       <workItem from="1662620883926" duration="5662000" />
       <workItem from="1662713222348" duration="20863000" />
-      <workItem from="1662968277161" duration="18569000" />
+      <workItem from="1662968277161" duration="19986000" />
     </task>
     <task id="LOCAL-00001" summary="Water Vertex Shader">
       <created>1662657386784</created>
