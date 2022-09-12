@@ -8,7 +8,6 @@ public class PlaneMeshGenerator : MonoBehaviour
 {
     [SerializeField] private int xSize;
     [SerializeField] private int ySize;
-    [SerializeField] private int zSize;
 
     private Mesh _mesh;
     private MeshFilter _filter;

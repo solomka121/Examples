@@ -8,8 +8,18 @@
       <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
       <e p="Assets" t="Include">
         <e p="Mesh Genaeration" t="Include">
-          <e p="CubeMeshGenerator.cs" t="Include" />
-          <e p="PlaneMeshGenerator.cs" t="Include" />
+          <e p="Pipe.cs" t="Include" />
+          <e p="PipeSystem.cs" t="Include" />
+          <e p="Primitive" t="Include">
+            <e p="CubeMesh.cs" t="Include" />
+            <e p="CubeMeshGenerator.cs" t="Include" />
+            <e p="CylinderMeshGenerator.cs" t="Include" />
+            <e p="MeshAn.cs" t="Include" />
+            <e p="PipeMeshGenerator.cs" t="Include" />
+            <e p="PlaneMeshGenerator.cs" t="Include" />
+            <e p="Sphere.cs" t="Include" />
+            <e p="SphereMeshGenerator.cs" t="Include" />
+          </e>
         </e>
         <e p="Painting" t="Include">
           <e p="Materials" t="Include">
