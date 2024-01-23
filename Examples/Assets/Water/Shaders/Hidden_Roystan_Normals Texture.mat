@@ -7,8 +7,8 @@ Material:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: Snow Height Map Update
-  m_Shader: {fileID: 4800000, guid: 9a99a34bd27d2da45a21db27179b1fb5, type: 3}
+  m_Name: Hidden_Roystan_Normals Texture
+  m_Shader: {fileID: 4800000, guid: 380378acd88467349a00f1ef12caeaae, type: 3}
   m_ShaderKeywords: 
   m_LightmapFlags: 4
   m_EnableInstancingVariants: 0
@@ -19,11 +19,6 @@ Material:
   m_SavedProperties:
     serializedVersion: 3
     m_TexEnvs: []
-    m_Floats:
-    - _Restore: 0
-    - _Revert: 0
-    - _RevertPosition: 1
-    m_Colors:
-    - _DrawPosition: {r: -1, g: -1, b: 0, a: 0}
-    - _Restore: {r: -1, g: -1, b: 0, a: 0}
+    m_Floats: []
+    m_Colors: []
   m_BuildTextureStacks: []
